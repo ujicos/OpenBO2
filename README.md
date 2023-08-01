@@ -1,14 +1,13 @@
-[![License: GPL v2](https://img.shields.io/github/license/OpenIW/OpenBO2)](https://github.com/OpenIW/OpenBO2/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-GPLv2-blue)](LICENSE)
 
-## OpenBO2
-This is still barebones, so **NOTHING** is working!
+# OpenBO2
+An attempt to reverse engineer and reimplement the T6 engine.
 
-## About
-Just a little side project I'm working on to create a playable open source version of Black Ops II.
+# Official Releases
+Official releases will not be available until the project reaches a playable state.
 
-## Contact
-If you would like to contact me
+# Contributing
+We really don't care, just send us stuff.
 
-Twitter: **[zkitx](https://twitter.com/zkitx)**
-Discord: **Evan#3333**
-Keybase: **zkitx**
+# Legal
+OpenBO2 is licensed under the [GPLv2](LICENSE.md) and is **not affiliated, associated, authorized, endorsed by, or in any way officially connected with Activision Blizzard, Inc or Treyarch Studios**.
